@@ -1,0 +1,10 @@
+{
+    "welcome": "Bienvenue à cette Blog",
+    "languages-header": "Langues",
+    "languages": {
+        "en": "Anglais",
+        "fr": "Français",
+        "de": "Allemand"
+    },
+    "articles": "Articles"
+}
